@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-26T00:59:22 AEST" name="Default suite" finished-at="2023-09-26T00:59:41 AEST" duration-ms="18477">
+    <groups>
+    </groups>
+    <test started-at="2023-09-26T00:59:22 AEST" name="Default test" finished-at="2023-09-26T00:59:41 AEST" duration-ms="18477">
+      <class name="com.swagatika.learning.seleniumtest.RegistrationPageTest">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.swagatika.learning.seleniumtest.RegistrationPageTest@437da279]" started-at="2023-09-26T00:59:22 AEST" name="beforeMethod" finished-at="2023-09-26T00:59:24 AEST" duration-ms="1515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateCartPageTest()[pri:0, instance:com.swagatika.learning.seleniumtest.RegistrationPageTest@437da279]" started-at="2023-09-26T00:59:24 AEST" name="validateCartPageTest" finished-at="2023-09-26T00:59:40 AEST" duration-ms="16761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateCartPageTest -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.swagatika.learning.seleniumtest.RegistrationPageTest@437da279]" started-at="2023-09-26T00:59:40 AEST" name="afterMethod" finished-at="2023-09-26T00:59:41 AEST" duration-ms="173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.swagatika.learning.seleniumtest.RegistrationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
